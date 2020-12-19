@@ -1,0 +1,3 @@
+include ':abner-common-module'
+include ':app'
+rootProject.name = "abner-common-module"
